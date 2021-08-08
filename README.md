@@ -2,4 +2,4 @@
 balance scale with matter.js
 
 
-![Image of Yaktocat](image.png)
+![Image of scale](image.png)
